@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a simple face recognition login system built for learning purposes using the Face++ API.
+This project is a simple face recognition login system built for learning purposes using the Face++ API. 
 
 The objective of this project was to understand:
 
