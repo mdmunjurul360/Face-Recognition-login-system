@@ -1,5 +1,5 @@
 {
-  "name": "camera-signup",
+  "name": "face-recognition-login-system",
   "version": "1.0.0",
   "main": "server.js",
   "type": "commonjs",
